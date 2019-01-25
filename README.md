@@ -22,7 +22,7 @@ feat: Added a sad feature
 - woot woot!
 ```
 
-## Avaiable Emojis
+## Available Emojis
 
 | Commit Type   | Emoji |
 | ------------- | ----- |
