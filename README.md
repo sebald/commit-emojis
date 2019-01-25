@@ -11,7 +11,7 @@ Ask yourself, what would you rather write!?
 ```
 feat: Added a sad feature
 
-- Added xy
+Added xy
 ```
 
 **OR**
@@ -19,7 +19,7 @@ feat: Added a sad feature
 ```
 ✨ Yeah! Added a feature!
 
-- woot woot!
+woot woot!
 ```
 
 ## Available Emojis
