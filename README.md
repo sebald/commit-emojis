@@ -4,7 +4,7 @@
 
 > Inspired by [`commit-message-emoji`](https://github.com/dannyfritz/commit-message-emoji).
 
-Emojis make git messages more fund and have the nice side effects of making identifing the type of change easier.
+Emojis make git messages more fun and have the nice side effects of making identifing the type of change easier.
 
 Ask yourself, what would you rather write!?
 
